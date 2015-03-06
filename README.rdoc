@@ -5,10 +5,10 @@ This specification it’s a solution to a real problem of a specific Real Estate
 
 The Features
 
-> Log-in with hierarchy level of permissions<br>
-> Create/Show/Update/Delete Clients<br>
-> Create/Show/Update/Delete Real Estate Properties<br>
-> Create/Show/Update/Delete Real Estate Agents<br>
-> Create/Show/Update/Delete Sales<br>
-> Manage sale states<br>
-> Each Real Estate Agent can manage his sales<br>
+> Log-in with hierarchy level of permissions
+> Create/Show/Update/Delete Clients
+> Create/Show/Update/Delete Real Estate Properties
+> Create/Show/Update/Delete Real Estate Agents
+> Create/Show/Update/Delete Sales
+> Manage sale states
+> Each Real Estate Agent can manage his sales
