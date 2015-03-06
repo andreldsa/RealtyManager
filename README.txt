@@ -12,3 +12,7 @@ The Features
 > Create/Show/Update/Delete Sales
 > Manage sale states
 > Each Real Estate Agent can manage his sales
+
+Status:
+
+> In production
