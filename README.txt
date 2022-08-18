@@ -15,4 +15,4 @@ The Features
 
 Status:
 
-> In production
+> Deprecated
